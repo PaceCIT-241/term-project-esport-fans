@@ -3,7 +3,6 @@ SELECT * FROM Nationality LIMIT 100;
 SELECT * FROM Position LIMIT 100;
 SELECT * FROM Club LIMIT 100;
 SELECT * FROM PlayerClub LIMIT 100;
-
 SELECT
 p.PlayerID, p.Name, n.CountryName, p.OverallRating
 FROM
