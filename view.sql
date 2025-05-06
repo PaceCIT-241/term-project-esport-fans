@@ -10,7 +10,7 @@ Player p
 JOIN
 Nationality n ON p.NationalityID = n.NationalityID
 JOIN
-Position pos ON p.PositionID = pos.PositionID
+PlayerPosition pos ON p.PositionID = pos.PositionID
 JOIN
 PlayerClub pc ON p.PlayerID = pc.PlayerID
 JOIN
