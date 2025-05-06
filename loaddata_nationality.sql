@@ -2,9 +2,11 @@ LOAD DATA LOCAL INFILE '/Users/nicoledannunzio/github-classroom/PaceCIT-241/term
 INTO TABLE Nationality
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
-IGNORE 1 ROWS
+
 (CountryName, FifaCode)
 SET NationalityID = NULL;
+
+
 
 
 

@@ -6,6 +6,3 @@ IGNORE 1 ROWS
 (PositionName, PositionType)
 SET PositionID = NULL;
 
-
-SELECT * FROM `PlayerPosition`LIMIT 10;
-
