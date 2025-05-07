@@ -1,0 +1,27 @@
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (158023, 'Lionel Messi', 1, 1, 94);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (20801, 'Cristiano Ronaldo', 2, 2, 93);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (190871, 'Neymar Jr', 3, 3, 92);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (203376, 'Virgil van Dijk', 4, 4, 91);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (200389, 'Jan Oblak', 5, 5, 91);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (192985, 'Kevin De Bruyne', 6, 6, 91);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (188545, 'Robert Lewandowski', 7, 7, 91);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (183277, 'Eden Hazard', 8, 8, 91);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (212831, 'Alisson', 9, 9, 90);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (209331, 'Mohamed Salah', 10, 10, 90);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (208722, 'Sadio Mané', 11, 11, 90);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (192448, 'Marc-André ter Stegen', 12, 12, 90);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (153079, 'Sergio Agüero', 13, 13, 90);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (231747, 'Kylian Mbappé', 14, 14, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (215914, 'NGolo Kanté', 15, 15, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (202126, 'Harry Kane', 16, 16, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (194765, 'Antoine Griezmann', 17, 17, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (182521, 'Toni Kroos', 18, 18, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (177003, 'Luka Modric', 19, 19, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (176580, 'Luis Suárez', 20, 20, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (167495, 'Manuel Neuer', 21, 21, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (155862, 'Sergio Ramos', 22, 22, 89);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (210257, 'Ederson', 23, 23, 88);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (202652, 'Raheem Sterling', 24, 24, 88);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (201942, 'Roberto Firmino', 25, 25, 88);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES (201024, 'Kalidou Koulibaly', 26, 26, 88);
+INSERT INTO Player (PlayerID, Name, NationalityID, PositionID, OverallRating) VALUES 

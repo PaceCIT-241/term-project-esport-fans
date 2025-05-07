@@ -6,6 +6,7 @@ CREATE TABLE Nationality (
     CountryName VARCHAR(100),
     FifaCode CHAR(3)
 );
+
 CREATE TABLE PlayerPosition (
     PositionID INT AUTO_INCREMENT PRIMARY KEY,
     PositionName VARCHAR(50),
